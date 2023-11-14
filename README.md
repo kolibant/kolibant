@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kolibant
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently coding on Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me :)
 
